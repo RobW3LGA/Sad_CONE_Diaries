@@ -29,7 +29,7 @@ Observe the outputs for the same ethernet interface...
       "type":"iana-if-type:ethernetCsmacd",
       "description":"This is the OpenConfig model",
       "enabled":true,
-      ...(truncated for brevity)
+      "truncatedForBrevity":true
     }
   }
 }
@@ -52,7 +52,7 @@ Observe the outputs for the same ethernet interface...
     "type":"iana-if-type:ethernetCsmacd",
     "description":"This is the IETF model",
     "enabled":true,
-    ...(truncated for brevity)
+    "truncatedForBrevity":true
   }
 }
 ```
